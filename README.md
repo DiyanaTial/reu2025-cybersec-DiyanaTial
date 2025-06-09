@@ -1,4 +1,4 @@
-# REU 2025 Cybersecurity Project - [Your Project Title]
+# Secure LLM Agents, Code Vulnerabilities
 
 ## Student(s)
 - Diyana Tial
